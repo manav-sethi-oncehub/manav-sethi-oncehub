@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manav-sethi-oncehub
-- 👀 I’m interested in JS, React, Node, Mongo, Kafka
+- 👀 I’m interested in js, react, ruby & HLDs
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: message me
